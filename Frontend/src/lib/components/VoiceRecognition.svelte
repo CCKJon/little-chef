@@ -10,11 +10,7 @@
 	let transcript = '';
 	let transcriptDispatched = false;
 	let recognition: SpeechRecognition | null = null;
-<<<<<<< HEAD
 	let wakeWord = 'remy'; // Change this to your desired wake word
-=======
-	let wakeWord = 'jarvis';
->>>>>>> e9ccfe7d62698322e2683a6e2c142afaf9b1e45d
 	let silenceTimeout: NodeJS.Timeout | null = null;
 
 	// Function to start recording
