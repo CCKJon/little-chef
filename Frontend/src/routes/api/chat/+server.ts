@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { OPENAI_KEY } from '$env/static/private';
 import type { CreateChatCompletionRequest, ChatCompletionRequestMessage } from 'openai';
 import type { RequestHandler } from './$types';
