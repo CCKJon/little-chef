@@ -1,4 +1,6 @@
 <script>
+	// @ts-nocheck
+
 	//@ts-no-check
 	import { onMount } from 'svelte';
 	import { PUBLIC_WEATHER_API } from '$env/static/public';
