@@ -124,7 +124,7 @@
 		>
 			Welcome to Gusteau’s, bon apetit
 			<div class="w-full text-orange-400 tracking-widest text-center text-xl">
-				Starring: little chef
+				Starring: Little chef
 			</div>
 		</h1>
 		<div
