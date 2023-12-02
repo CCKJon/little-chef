@@ -122,7 +122,7 @@
 		<h1
 			class="text-3xl font-bold w-full text-center text-orange-400 px-2 py-1 border-orange-200 border rounded-t-3xl shadow-orange-400 shadow-xl"
 		>
-			Welcome to Gusteau’s
+			Welcome to Gusteau’s, bon apetit
 			<div class="w-full text-orange-400 tracking-widest text-center text-xl">
 				Starring our little chef
 			</div>
